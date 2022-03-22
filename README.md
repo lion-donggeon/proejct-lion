@@ -1,3 +1,17 @@
+
+
+# 3차 미션 ( 베이직 )
+  
+https://user-images.githubusercontent.com/95840049/159470429-2c819f4f-251a-4450-a00b-6650461628c0.mp4
+
+
+# 2차 미션 ( 챌린지 )
+- 리드미에 자료 올렸으나, 깃커밋푸쉬 잘 못해서 날라감
+- 
+# 1차 미션 ( 챌린지 )
+- 리드미에 안올리고 제출만함
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
